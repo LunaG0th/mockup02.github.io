@@ -132,7 +132,7 @@ span.kys h1 {
 }
 
 .img-about-3 {
-    background: url("/img/office.webp");
+    background: url("img/office.webp");
     width: 420px;
     height: 300px;
     background-repeat: no-repeat;
