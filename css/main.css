@@ -53,7 +53,7 @@ span.kys h1 {
     bottom: 12%;
     border: 10px solid white;
     box-shadow: 6px 6px 5px #21212149;
-    background: url("/img/businesswoman.webp");
+    background: url("../img/businesswoman.webp");
     background-size: cover;
     width: 539;
     height: 523;
